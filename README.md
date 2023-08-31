@@ -15,7 +15,7 @@
 ##
 
 <div>
-    <a href="#" target="_blank">
+    <a href="https://pedrohenriquealvesfernandes.github.io/Portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/portfolio-56347C?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></img>
     </a>
     <a href="https://www.linkedin.com/in/pedrohalves/" target="_blank">
