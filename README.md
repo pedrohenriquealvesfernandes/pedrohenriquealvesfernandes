@@ -8,7 +8,7 @@
 
 - 📫 Entre em contato pelo email **pedrohenriquealvesfernandes02@gmail.com**
 
-- 👨‍💻 Veja todos os meus projetos em meu portfolio **[Portfolio]((https://github.com/pedrohenriquealvesfernandes?tab=repositories))**
+- 👨‍💻 Veja todos os meus projetos em meu portfolio <strong><u><a href="https://github.com/pedrohenriquealvesfernandes?tab=repositories" target="blank">Portfolio</a></u></strong>
 
 - 📄 Tenha acesso ao meu currículo atualizado <strong><u><a href="https://drive.google.com/drive/folders/1ROuMa7YpRd04ZA2s2CNBH4ms446h2ihX?hl=pt-br" target="blank">Currículo</a></u></strong>
 
