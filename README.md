@@ -1,6 +1,6 @@
-# Olá 👋, me chamo Pedro Alves 
+# Olá, me chamo Pedro Alves 
 
-### Sou um entusiasta da análise de dados 🤓
+### Sou um entusiasta da análise de dados 
 
 - 🔭 Desenvolvendo **Projetos de análises de dados**
 
